@@ -73,3 +73,14 @@ crashlytics-build.properties
 
 # ODIN plugin
 /Assets/Plugins/Sirenix**
+
+# Recorded Data
+/Recordings/
+
+# Visual Studio Code metadata
+.vscode
+
+# Fanarts
+/Assets/Textures/fanart1x1/*
+/Assets/Textures/fanart4x3/*
+/Assets/Textures/fanart9x16/*
